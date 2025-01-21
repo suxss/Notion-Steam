@@ -1,0 +1,344 @@
+{
+  'type': 'game',
+  'name': 'Prison Architect',
+  'steam_appid': 233450,
+  'required_age': '16',
+  'is_free': False,
+  'dlc': [
+    2237250,
+    2184800,
+    2154010,
+    2085570,
+    1948120,
+    1760030,
+    1601350,
+    1493470,
+    1244781,
+    1244780,
+    1143650,
+    1195240
+  ],
+  'detailed_description': '<strong>欢迎各位典狱长！</strong><br><br>只有世界上最残酷无情的典狱长能镇住世界上最惨无人道的囚犯。在《Prison Architect》中设计并发展独具个人风格的监狱。<br><br><i>主要特色：</i><h2 class="bb_tag">自定义监禁</h2>配置资源来让监狱发挥最大效益，但别限制人群流动，因为若遇上洪水、火灾、斗殴或严重暴动将酿成严重后果。<h2 class="bb_tag">投资与创新</h2>运用联邦拨款的基金来对抗疾病、帮派活动和诉讼案件等项目！<h2 class="bb_tag">恩威并施</h2>雇用顶尖的武装安保、心理学家、医生、律师和告密者，确保您的监狱“绝大部分”都符合道德与安全规范。<h2 class="bb_tag">特设矫正</h2>需根据每位囚犯的犯罪记录安排不同的治疗项目、劳动计划和自新工作坊。<h2 class="bb_tag">封锁对决</h2>于逃狱模式中，尝试冒着高风险逃离自己门禁森严的监狱，或是于在线模式中，从 12,000 名玩家建造的监狱中择其一来尝试逃狱。还能在沙盒模式中不受拘束地扩展您的矫正伟业。+',
+  'about_the_game': '<strong>欢迎各位典狱长！</strong><br><br>只有世界上最残酷无情的典狱长能镇住世界上最惨无人道的囚犯。在《Prison Architect》中设计并发展独具个人风格的监狱。<br><br><i>主要特色：</i><h2 class="bb_tag">自定义监禁</h2>配置资源来让监狱发挥最大效益，但别限制人群流动，因为若遇上洪水、火灾、斗殴或严重暴动将酿成严重后果。<h2 class="bb_tag">投资与创新</h2>运用联邦拨款的基金来对抗疾病、帮派活动和诉讼案件等项目！<h2 class="bb_tag">恩威并施</h2>雇用顶尖的武装安保、心理学家、医生、律师和告密者，确保您的监狱“绝大部分”都符合道德与安全规范。<h2 class="bb_tag">特设矫正</h2>需根据每位囚犯的犯罪记录安排不同的治疗项目、劳动计划和自新工作坊。<h2 class="bb_tag">封锁对决</h2>于逃狱模式中，尝试冒着高风险逃离自己门禁森严的监狱，或是于在线模式中，从 12,000 名玩家建造的监狱中择其一来尝试逃狱。还能在沙盒模式中不受拘束地扩展您的矫正伟业。+',
+  'short_description': '只有世界上最残酷无情的典狱长能镇住世界上最惨无人道的囚犯。在《Prison Architect》中设计并发展独具个人风格的监狱。',
+  'supported_languages': '英语, 法语, 意大利语, 德语, 韩语, 波兰语, 葡萄牙语 - 巴西, 俄语, 简体中文, 西班牙语 - 西班牙, 荷兰语, 日语, 瑞典语, 繁体中文, 土耳其语',
+  'reviews': '“《监狱建筑师》让玩家可以轻松、高效地多方面管理监狱生活，甚至可以预先为现有问题系统建立替代系统。” ——小宅网（Kotaku）<br />\r\n<br />\r\n“Introversion的这款安全类模拟游戏以有趣的方式将资本、建筑、管理和道德融为一体，将多个往往相互矛盾的目标摆在你面前：囚犯的安全、高效利用空间、囚犯的健康、盈利以及确保你的监狱绝对安全。建造一个支持这些目标的空间是一件令人着迷的事。”——电脑游戏玩家<br />\r\n<br />\r\n“《监狱建筑师》令我毛骨悚然。如果我随意玩玩，它会是一场滑稽可笑的欢喜闹剧，但如果我耐心、认真地玩，它会是一场恐怖游戏，一次跌入黑暗深渊的梦魇之旅，一团我不断尝试却始终无法浇灭的永恒烈焰。” ——RPS',
+  'header_image': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/header_schinese.jpg?t=1737117114',
+  'capsule_image': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/capsule_231x87_schinese.jpg?t=1737117114',
+  'capsule_imagev5': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/capsule_184x69_schinese.jpg?t=1737117114',
+  'website': 'https://www.prisonarchitect.com/',
+  'pc_requirements': {
+    'minimum': '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>OS:</strong>Windows® 10 Home 64 Bit<br>\t</li><li><strong>Processor:</strong>Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher<br>\t</li><li><strong>Memory:</strong>6 GB RAM<br>\t</li><li><strong>Graphics:</strong>Nvidia 8600 / Radeon equivalent (2009 era)<br>\t</li><li><strong>Hard Drive:</strong>400 MB HD space</li></ul>'
+  },
+  'mac_requirements': {
+    'minimum': '<strong>Minimum:</strong><br><ul class="bb_ul"><li><strong>Processor:</strong>2009 era Macbook Pro, Core2 Duo processor<br>\t</li><li><strong>Memory:</strong>6 GB RAM<br>\t</li><li><strong>Hard Drive:</strong>400 MB HD space</li></ul>'
+  },
+  'linux_requirements': {
+    'minimum': '<ul class="bb_ul"><li><strong>OS:</strong> Ubuntu 18 or later<br>\t</li><li><strong>Processor:</strong> Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher<br>\t</li><li><strong>Memory:</strong> 6 GB RAM<br>\t</li><li><strong>Graphics:</strong> Nvidia 8600 / Radeon equivalent (2009 era)<br>\t</li><li><strong>Hard Drive:</strong> 500 MB HD space</li></ul>'
+  },
+  'legal_notice': '© 2020 Paradox Interactive AB, PRISON ARCHITECT and PARADOX INTERACTIVE are trademarks and/or registered trademarks of Paradox Interactive AB in Europe, the U.S., and other countries. Developed by Double Eleven Limited. All other trademarks, logos, and copyrights are property of their respective owners.',
+  'developers': [
+    'Introversion Software',
+    'Double Eleven'
+  ],
+  'publishers': [
+    'Paradox Interactive'
+  ],
+  'price_overview': {
+    'currency': 'HKD',
+    'initial': 21800,
+    'final': 4360,
+    'discount_percent': 80,
+    'initial_formatted': 'HK$ 218.00',
+    'final_formatted': 'HK$ 43.60'
+  },
+  'packages': [
+    26394
+  ],
+  'package_groups': [
+    {
+      'name': 'default',
+      'title': '购买 Prison Architect',
+      'description': '',
+      'selection_text': '选择一个购买选项',
+      'save_text': '',
+      'display_type': 0,
+      'is_recurring_subscription': 'false',
+      'subs': [
+        {
+          'packageid': 26394,
+          'percent_savings_text': '-80% ',
+          'percent_savings': 0,
+          'option_text': 'Prison Architect - <span class="discount_original_price">HK$ 218.00</span> HK$ 43.60',
+          'option_description': '',
+          'can_get_free_license': '0',
+          'is_free_license': False,
+          'price_in_cents_with_discount': 4360
+        }
+      ]
+    }
+  ],
+  'platforms': {
+    'windows': True,
+    'mac': True,
+    'linux': True
+  },
+  'metacritic': {
+    'score': 83,
+    'url': 'https://www.metacritic.com/game/pc/prison-architect?ftag=MCD-06-10aaa1f'
+  },
+  'categories': [
+    {
+      'id': 2,
+      'description': '单人'
+    },
+    {
+      'id': 22,
+      'description': 'Steam 成就'
+    },
+    {
+      'id': 29,
+      'description': 'Steam 集换式卡牌'
+    },
+    {
+      'id': 30,
+      'description': 'Steam 创意工坊'
+    },
+    {
+      'id': 23,
+      'description': 'Steam 云'
+    },
+    {
+      'id': 17,
+      'description': '包含关卡编辑器'
+    },
+    {
+      'id': 62,
+      'description': '家庭共享'
+    }
+  ],
+  'genres': [
+    {
+      'id': '23',
+      'description': '独立'
+    },
+    {
+      'id': '28',
+      'description': '模拟'
+    },
+    {
+      'id': '2',
+      'description': '策略'
+    }
+  ],
+  'screenshots': [
+    {
+      'id': 0,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_0c13ec061d922fbe8ad518eb58487cff09d3fd40.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_0c13ec061d922fbe8ad518eb58487cff09d3fd40.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 1,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_8fd05248e9f657baea9f26d2dbd154573c29b33e.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_8fd05248e9f657baea9f26d2dbd154573c29b33e.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 2,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_bc52fdefa87f4dd54f2e0c4268ebf6d3d859d682.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_bc52fdefa87f4dd54f2e0c4268ebf6d3d859d682.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 3,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_71a9f3d9bbc42df3ed320f6072353be9dd3b65fd.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_71a9f3d9bbc42df3ed320f6072353be9dd3b65fd.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 4,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_b3380ae2e73a41723b9dd377a68a52c327762f4b.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_b3380ae2e73a41723b9dd377a68a52c327762f4b.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 5,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_9409f165fe4f7b747e16e84f1c557a37c0bccfc1.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_9409f165fe4f7b747e16e84f1c557a37c0bccfc1.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 6,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_6e55db68121786b01fd3408efe024901bdded602.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_6e55db68121786b01fd3408efe024901bdded602.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 7,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_e2192114d3722f729b54caf5ca94b9d07ebf7bd8.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_e2192114d3722f729b54caf5ca94b9d07ebf7bd8.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 8,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_d366c2fa8ad3d34a12d273c046c30ec6fc24aa47.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_d366c2fa8ad3d34a12d273c046c30ec6fc24aa47.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 9,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_2e0bad57b5c02840950837f034d2280e2e24b65a.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_2e0bad57b5c02840950837f034d2280e2e24b65a.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 10,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_a294cf1d6c3b208452832fe743f3c731de2876f5.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_a294cf1d6c3b208452832fe743f3c731de2876f5.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 11,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_f398279d60b83b0a261534658cf67cc89037831d.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_f398279d60b83b0a261534658cf67cc89037831d.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 12,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_d5555831d6721d697b1a0fc1cfbd1079a4bf2ae6.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_d5555831d6721d697b1a0fc1cfbd1079a4bf2ae6.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 13,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_e5e93b24c2280e32a17d8855089b2e67d816fd45.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_e5e93b24c2280e32a17d8855089b2e67d816fd45.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 14,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_547f7ffbcde4b4fb7765c01b5030fc8196424712.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_547f7ffbcde4b4fb7765c01b5030fc8196424712.1920x1080.jpg?t=1737117114'
+    },
+    {
+      'id': 15,
+      'path_thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_9f9e4cc544c7bdf755625ab234304ffe9947d73d.600x338.jpg?t=1737117114',
+      'path_full': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_9f9e4cc544c7bdf755625ab234304ffe9947d73d.1920x1080.jpg?t=1737117114'
+    }
+  ],
+  'movies': [
+    {
+      'id': 256657032,
+      'name': 'Prison Architect V1.0 trailer',
+      'thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657032/movie.293x165.jpg?t=1447378356',
+      'webm': {
+        '480': 'http://video.akamai.steamstatic.com/store_trailers/256657032/movie480.webm?t=1447378356',
+        'max': 'http://video.akamai.steamstatic.com/store_trailers/256657032/movie_max.webm?t=1447378356'
+      },
+      'mp4': {
+        '480': 'http://video.akamai.steamstatic.com/store_trailers/256657032/movie480.mp4?t=1447378356',
+        'max': 'http://video.akamai.steamstatic.com/store_trailers/256657032/movie_max.mp4?t=1447378356'
+      },
+      'highlight': True
+    },
+    {
+      'id': 256947053,
+      'name': 'Sunset Trailer',
+      'thumbnail': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947053/movie.293x165.jpg?t=1684242210',
+      'webm': {
+        '480': 'http://video.akamai.steamstatic.com/store_trailers/256947053/movie480_vp9.webm?t=1684242210',
+        'max': 'http://video.akamai.steamstatic.com/store_trailers/256947053/movie_max_vp9.webm?t=1684242210'
+      },
+      'mp4': {
+        '480': 'http://video.akamai.steamstatic.com/store_trailers/256947053/movie480.mp4?t=1684242210',
+        'max': 'http://video.akamai.steamstatic.com/store_trailers/256947053/movie_max.mp4?t=1684242210'
+      },
+      'highlight': False
+    }
+  ],
+  'recommendations': {
+    'total': 57739
+  },
+  'achievements': {
+    'total': 18,
+    'highlighted': [
+      {
+        'name': 'Throw The Book At Them',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/2a0c8704e95b2421d6c7583d535704e01db951c3.jpg'
+      },
+      {
+        'name': 'Crowd Control',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/822e1db0968016f9b5869ded16c384f6e511f451.jpg'
+      },
+      {
+        'name': 'Reformation',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/0b0e9a5c95ca5b372b5e411c84ce4fcf9b4685d4.jpg'
+      },
+      {
+        'name': 'Freedom',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/9623158c682eaaf9001528ffc6beab05f409d505.jpg'
+      },
+      {
+        'name': 'Stone Walls',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/38b2003ebb1816eaf3381eccf2e2e8d3b91031d9.jpg'
+      },
+      {
+        'name': 'Iron Bars',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/3825581e484ab506aeaa3839e47fb6a42e6db116.jpg'
+      },
+      {
+        'name': 'Confined',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/498103e63b87cef175a4100ff825095206880912.jpg'
+      },
+      {
+        'name': 'D.B. Cooper',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/8e5ebbe5c17cb8fcb2c208023ccd1b9f51294599.jpg'
+      },
+      {
+        'name': 'Samuel Norton',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/7e3077bc3ae9eb547aa399b26ccc189598239aea.jpg'
+      },
+      {
+        'name': 'Spare The Rod',
+        'path': 'https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/233450/d989cce4d55600ca1f40558694df8597967049ae.jpg'
+      }
+    ]
+  },
+  'release_date': {
+    'coming_soon': False,
+    'date': '2015 年 10 月 6 日'
+  },
+  'support_info': {
+    'url': 'https://www.paradoxplaza.com/support-static-info-ca.html',
+    'email': ''
+  },
+  'background': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/page_bg_generated_v6b.jpg?t=1737117114',
+  'background_raw': 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/page.bg.jpg?t=1737117114',
+  'content_descriptors': {
+    'ids': [
+      1,
+      2,
+      5
+    ],
+    'notes': 'Moderate Violence\r\nSexual Nudity\r\nStrong Language'
+  },
+  'ratings': {
+    'esrb': {
+      'required_age': '17',
+      'rating': 'm',
+      'descriptors': 'Violence\r\nBlood\r\nPartial Nudity\r\nSexual Content\r\nStrong Language'
+    },
+    'pegi': {
+      'rating': '16',
+      'descriptors': 'Moderate Violence\r\nSexual Nudity\r\nStrong Language',
+      'use_age_gate': 'true',
+      'required_age': '16'
+    },
+    'usk': {
+      'rating': '12',
+      'use_age_gate': 'true',
+      'required_age': '12'
+    },
+    'dejus': {
+      'rating': '14',
+      'descriptors': 'Violência fantasiosa\r\nViolência\r\nLinguagem imprópria\r\nNudez\r\nDrogas ilícitas',
+      'use_age_gate': 'true',
+      'required_age': '14'
+    },
+    'steam_germany': {
+      'rating_generated': '1',
+      'rating': '16',
+      'required_age': '16',
+      'banned': '0',
+      'use_age_gate': '0',
+      'descriptors': 'Drastische Gewalt'
+    }
+  }
+}
