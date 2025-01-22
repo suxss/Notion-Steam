@@ -47,8 +47,8 @@ class DailyStat:
                 game_details["initial_price"] = game_details.get('price_overview', {}).get('initial')
                 result = self.notion_api.add_game_page(game_details)
                 id = result.get('id')
-                if id and (total_time != 0 or total_achievements != 0):
-                    self.notion_api.add_daily_report(game_details.get("name", ""), appid, total_time, total_achievements, id)
+                if id and (total_time != 0 or completed_achievements != 0):
+                    self.notion_api.add_daily_report(game_details.get("name", ""), appid, total_time, completed_achievements, id)
             else:
                 query_info = self.notion_api.query_by_appid(appid)
                 if len(query_info):
