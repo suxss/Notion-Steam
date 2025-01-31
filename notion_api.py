@@ -121,9 +121,6 @@ class NotionApi:
                         }
                     ]
                 },
-                # "原价": {
-                #     "number": data["initial_price"]
-                # },
                 "游戏名": {
                     "title": [
                         {
@@ -136,17 +133,21 @@ class NotionApi:
                 "游戏图片": {
                     "files": [
                         {"external": {"url": photos["path_full"]}, "name": f"screenshots_{photos['id']}",
-                         "type": "external"} for photos in data["screenshots"]
+                         "type": "external"} for photos in data.get("screenshots", [])
                     ]
                 },
                 "游戏视频": {
                     "files": [
                         {"external": {"url": movies["mp4"]['max']}, "name": f"movies_{movies['name']}_{movies['id']}",
-                         "type": "external"} for movies in data["movies"]
+                         "type": "external"} for movies in data.get("movies", [])
                     ]
                 }
             }
         }
+        if data["initial_price"]:
+            post_data["properties"]["原价"] = {
+                        "number": data["initial_price"] / 100
+                    }
         # print(post_data)
         response = self.session.post(url, json=post_data, headers=self.headers)
         print(response.json())

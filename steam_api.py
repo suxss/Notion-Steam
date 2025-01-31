@@ -47,7 +47,7 @@ class SteamApi:
         return achieved, len(achievements)
 
     def get_game_details(self, appid) -> GameDetails | None:
-        url = f"https://store.steampowered.com/api/appdetails/?appids={appid}&language=zh-CN"
+        url = f"https://store.steampowered.com/api/appdetails/?appids={appid}&language=zh-CN&cc=CN"
         response = self.session.get(url, headers=self.HEADERS)
         if response.status_code == 200:
             data = response.json()
@@ -58,6 +58,6 @@ if __name__ == '__main__':
     steam_data = SteamApi(STEAM_ACCOUNT_ID, STEAM_ID, STEAM_API_KEY)
     # data = steam_data.get_api_url(interface="IPlayerService", method="GetOwnedGames")
     # data = steam_data.get_achievements('233450')
-    # data = steam_data.get_game_details('233450')
+    data = steam_data.get_game_details('233450')
     data = steam_data.get_owned_games()
     print(data)
